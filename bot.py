@@ -3,7 +3,7 @@ import sqlite3
 from aiogram import Bot, Dispatcher, executor, types
 import os
 
-API_TOKEN = os.getenv("API_TOKEN")  # Render’da token Environment’dan olinadi
+API_TOKEN = os.getenv("7894794253:AAGfdovv4MXUGg9Kv7TD1ZgdA4hX5YxDrH8")  # Render’da token Environment’dan olinadi
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=API_TOKEN)
